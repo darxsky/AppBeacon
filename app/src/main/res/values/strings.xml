@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppBeacon</string>
+    <string name="button">Button</string>
+    <string name="prova_di_app">Prova di app</string>
+    <string name="beacon1">Beacon1</string>
+    <string name="description">Description</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="beaconResult">
+        <item>Beacon1</item>
+        <item>Beacon2</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>UUID,Major,Minor</item>
+        <item>UUID,Major,Minor</item>
+    </string-array>
+    <string name="title_activity_start">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="my_device">I miei dispositivi</string>
+    <string name="info">Informazioni</string>
+
+</resources>
